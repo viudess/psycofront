@@ -1,0 +1,23 @@
+
+.btn{
+    margin-top: 20px;
+    margin-left: 35%;
+}
+
+.card-body{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card-header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
